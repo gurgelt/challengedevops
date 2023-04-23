@@ -1,3 +1,5 @@
+# Paulo Gurgel Tudini - RM88960
+
 # Descrição do Projeto
 
 A aplicação apresentada em trabalho tem como base armazenar e listar números que o usuário digita. 
